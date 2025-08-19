@@ -2,7 +2,7 @@ const menuIcon = document.querySelector('#menu-icon');
 const navLinks = document.querySelector('.nav-links');
 const downloadCVButton = document.getElementById('downloadCVBtn');
 
-const cvFilePath = 'Resume230725.pdf';
+const cvFilePath = 'Resume.pdf';
 const suggestedFileName = 'Adith_R_Lal_CV.pdf';
 
 menuIcon.onclick = () => {
